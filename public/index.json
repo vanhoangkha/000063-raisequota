@@ -1,0 +1,50 @@
+[
+{
+	"uri": "/1-introduce/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Overview With Service Quotas, you can view and manage your quotas for AWS services from a central location. Quotas, also referred to as limits in AWS services, are the maximum values for the resources, actions, and items in your AWS account. Each AWS service defines its quotas and establishes default values for those quotas. Depending on your business needs, you might need to increase your service quota values. Service Quotas enables you to look up your service quotas and to request increases. AWS Support might approve, deny, or partially approve your requests.\n"
+},
+{
+	"uri": "/",
+	"title": "Requesting a quota increase",
+	"tags": [],
+	"description": "",
+	"content": "Requesting a quota increase With Service Quotas, you can view and manage your quotas for AWS services from a central location. Quotas, also referred to as limits in AWS services, are the maximum values for the resources, actions, and items in your AWS account. Each AWS service defines its quotas and establishes default values for those quotas. Depending on your business needs, you might need to increase your service quota values. Service Quotas enables you to look up your service quotas and to request increases. AWS Support might approve, deny, or partially approve your requests.\n Service Quotas   You don\u0026rsquo;t have to follow the instructions in this exercise, but you should be familiar with the steps in the request service limit increment process to serve real-world needs.\n\rMain content  Introduction Preparation Start with service quota Request for quota increase  "
+},
+{
+	"uri": "/2-prerequiste/",
+	"title": "Preparation ",
+	"tags": [],
+	"description": "",
+	"content": "Preparation steps  You need to prepare an AWS account You need to be able to create IAM User You need to be able to create IAM roles.  "
+},
+{
+	"uri": "/3-gettingstartedwithservicequotas/",
+	"title": "Getting Started with Service Quota",
+	"tags": [],
+	"description": "",
+	"content": "Start with Service Quota   Access the interface Service Quotas\n Select Dashboard View overview Dashboard In the Dashboard interface, select Modify dashboard cards     The currently selected services appear on the right. If you have selected nine services, you must remove one before you can add another. For each service that you don\u0026rsquo;t need on the dashboard, select Remove\n Then select Save     Change successfully.\n Then select Modify dashboard cards     To add a service to the dashboard, select it from Choose services\n After selecting the service, select Save    Complete the Dashboard update.  "
+},
+{
+	"uri": "/4-requestingaquotaincrease/",
+	"title": "Requesting a quota increase",
+	"tags": [],
+	"description": "",
+	"content": "Request to increase quota  Access the interface Service Quotas    In the Dashboard interface\n Select AWS services Find the service you want to apply for more quota (Example in the lab: Amazon Elastic Compute Cloud (Amazon EC2)) Select Amazon Elastic Compute Cloud (Amazon EC2)     After accessing the translation name\n Select Quota name for which we need to apply for a quota. (The example in the lab is Running On-Demand Standard (A, C, D, H, I, M, R, T, Z) instances)     View information and enter Change quota value that you want to increase.\n In the lab increased from 32 to 100. Then select Request    Successfully fulfilled the request to increase the quota.  Back to Dashboard we will see Pending service quota requests  Select Quota request history to view the quota increase request history.    The Recent quota increase requests panel displays information about your open recent quota increase requests and any requests closed within 90 days.\n  Service – Displays the service name selected for the request.\n  Quota name – Displays the quota name selected for the quota increase.\n  Status – Displays the status of a request for a quota increase.\n    You may see the following types of status:\n  Closed – Quota increase approved and request closed.\n  Quota request approved – Quota increase approved automatically.\n  Quota requested – Quota increase request pending AWS Support approval.\n  Requested quota value – The increased quota value you requested for the quota.\n  Request date – The date you requested the quota increase.\n  Last updated date – The last date the request received an update.\n    Check the mail and copy the link in the mail.  Open the copied link in the mail.  You can then track your request status until it is approved by AWS team support.  "
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
