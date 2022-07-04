@@ -18,7 +18,7 @@
 	"title": "Các bước chuẩn bị",
 	"tags": [],
 	"description": "",
-	"content": "Các bước chuẩn bị  Bạn cần chuẩn bị tài khoản AWS Bạn có thể tạo IAM User Bạn có thể tạo các IAM roles.  "
+	"content": "Các bước chuẩn bị  Bạn cần chuẩn bị tài khoản AWS. IAM User với quyền Administrator Access.  "
 },
 {
 	"uri": "/vi/3-gettingstartedwithservicequotas/",
