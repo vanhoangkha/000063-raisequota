@@ -1,4 +1,4 @@
-# 📋 Raise Quota
+# Raise Quota
 
 Request AWS service quota increases.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000063-raisequota/)**
+**[Start the workshop](https://vanhoangkha.github.io/000063-raisequota/)**
 
 ## Prerequisites
 
